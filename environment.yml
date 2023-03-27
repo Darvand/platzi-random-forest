@@ -1,6 +1,5 @@
 name: platzi_random_forest
 channels:
-  - anaconda
   - conda-forge
   - defaults
 dependencies:
